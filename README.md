@@ -18,14 +18,14 @@ Apart from the above - my biggest argument for moving government to open source 
 
 * *You'll need to re-train all of government* - hey, you have R10 billion to spend - spend some on training
 * *Open source software sucks* - you think so? Spend R10 billion tuning it to be just so
-* *There is no accountability with open source projects - poppycock! Open source software is managed in the same way as any other software development.
+* *There is no accountability with open source projects* - poppycock! Open source software is managed in the same way as any other software development.
 * *You can never move government wholesale* - one step in front of the other
 * *There is no open source equivalent to X package* - let's talk - are you sure you looked carefully enough?
 * *What about support* - Pay for it - I'm sure there are tons of companies willing to provide it.
-* * Open source is difficult to use - that's a general statement - I don't find oogle chrome to be difficult to use at all - Internet Explorer has until recently been lagging very far behind all the other open source browsers. Some open source software might have poor usability for non-technical users - this can always be improved with sufficient developer spend. 
-* *It will be difficult to move to open source software in government because proprietary companies using unscrupulous business practices to influence procurements - that's why we need a government policy that prefers open source software tp proprietary software. A motivating statement would need to be made to argue why a closed source system should be used instead.
-* *Proprietary software offer out-of-the-box solutions - so what? That is not necessarily true, but even if it was - we should plan for the long-term by producing software that promotes transparency and local economic development. 
-* *Open source software is costly to customise - possibly true, but consider the long-term cost of ownership of the two alternatives. Licensing fees are paid annually, most customisation of open source software takes place initially. Thereafter you have a much cheaper maintenance phase. It is quite likely that any development cost can be amortised over a few years. Of course, there is no guarantee that closed-source software doesn't need to be customised. SAP is the biggest culprit. One often hears of multi-million rand SAP implementations. 
+* *Open source is difficult to use* - that's a general statement - I don't find oogle chrome to be difficult to use at all - Internet Explorer has until recently been lagging very far behind all the other open source browsers. Some open source software might have poor usability for non-technical users - this can always be improved with sufficient developer spend. 
+* *It will be difficult to move to open source software in government because proprietary companies using unscrupulous business practices to influence procurements* - that's why we need a government policy that prefers open source software tp proprietary software. A motivating statement would need to be made to argue why a closed source system should be used instead.
+* *Proprietary software offer out-of-the-box solutions* - so what? That is not necessarily true, but even if it was - we should plan for the long-term by producing software that promotes transparency and local economic development. 
+* *Open source software is costly to customise* - possibly true, but consider the long-term cost of ownership of the two alternatives. Licensing fees are paid annually, most customisation of open source software takes place initially. Thereafter you have a much cheaper maintenance phase. It is quite likely that any development cost can be amortised over a few years. Of course, there is no guarantee that closed-source software doesn't need to be customised. SAP is the biggest culprit. One often hears of multi-million rand SAP implementations. 
 
 
 ## What this project is not
