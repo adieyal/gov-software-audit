@@ -1,17 +1,17 @@
-Institution/Department,Date Requested,Date Acknowledged,Date Received,Prices Available,Respondent,Current Status,Person Responsible,Comments
-Department of Agriculture  Forestry and Fisheries,4/5/2013,10/5/2013,,,Marion van Rooyen (marionvr@daff.gov.za),Appeal,Adi Eyal (adi@burgercom.co.za),Rejected on the grounds of Sections 36 and 38
-Department of Arts and Culture,4/5/2013,3/6/2013,18/6/2013,Yes,Given Mditshwa (givenm@dac.gov.za),Received,Adi Eyal (adi@burgercom.co.za),
-Department of Basic Education,4/5/2013,14/5/2013,,,Chris Leukes (leukes.c@dbe.gov.za),Ongoing,Adi Eyal (adi@burgercom.co.za),
-Department of Communications,4/5/2013,29/5/2013,,,Hangwelani Maseda (director-general@doc.gov.za),Ongoing,Adi Eyal (adi@burgercom.co.za),
-Department of Defense,8/5/2013,,,,Infodod@.centre@gmail.com,Ongoing,Adi Eyal (adi@burgercom.co.za),They have no clue
-Department of Economic Affairs,4/5/2013,,,,rdaniels@economic.gov.za,Ongoing,Adi Eyal (adi@burgercom.co.za),Email bounced
-Department of Energy,4/5/2013,29/5/2013,12/6/2013,Yes,Saandhri (saandhri.naidoo@energy.gov.za),Received,Adi Eyal (adi@burgercom.co.za),
-Department of Environmental Affairs,4/5/2013,8/5/2013,5/6/2013,Yes,Cecil Ngoben (cngobeni@environment.gov.za),Received,Adi Eyal (adi@burgercom.co.za),
-Department of Health,4/5/2013,,,,matsop@health.gov.za,Ongoing,Adi Eyal (adi@burgercom.co.za),
-Department of Home Affairs,4/5/2013,15/5/2013,,,Paia@dha.gov.za,Ongoing,Adi Eyal (adi@burgercom.co.za),
-Department of Public Service and Administration,6/4/2013,8/4/2013,3/5/2013,Yes,Danie Maree (danie_m@dpsa.gov.za),Received,Adi Eyal (adi@burgercom.co.za),
-Government Communication and Information System,4/5/2013,14/5/2013,3/6/2013,No,Phillimon Tebogo Kgomo (phillimon@gcis.gov.za),Received,Adi Eyal (adi@burgercom.co.za),
-Ministry for Cooperative Governance and Traditional Affairs,4/5/2013,,,,realebogaz@cogta.gov.za,Ongoing,Adi Eyal (adi@burgercom.co.za),Email bounced
-South African Police Service,4/5/2013,,,,ntsalubap@saps.org.za,Ongoing,Adi Eyal (adi@burgercom.co.za),
-State Information Technology Agency,8/5/2013,14/5/2013,,,Thandi Zide (tandi.zide@site.co.za),Ongoing,Adi Eyal (adi@burgercom.co.za),Thandi no longer works at Sita   request now sent to Shirley Kgope (shirley.kgope@sita.co.za)
-Treasury,4/5/2013,6/5/2013,,,Phumza Macanda (phumza.macanda@treasury.gov.za),Ongoing,Adi Eyal (adi@burgercom.co.za),
+Institution/Department,Date Requested,Date Acknowledged,Date Received,Date of Appeal,Prices Available,Respondent,Current Status,Person Responsible,Comments
+Department of Agriculture  Forestry and Fisheries,4/5/2013,10/5/2013,,7/8/2013,,Marion van Rooyen (marionvr@daff.gov.za),Appeal,Adi Eyal (adi@burgercom.co.za),Rejected on the grounds of Sections 36 and 38
+Department of Arts and Culture,4/5/2013,3/6/2013,18/6/2013,,Yes,Given Mditshwa (givenm@dac.gov.za),Received,Adi Eyal (adi@burgercom.co.za),
+Department of Basic Education,4/5/2013,14/5/2013,,,,Chris Leukes (leukes.c@dbe.gov.za),Ongoing,Adi Eyal (adi@burgercom.co.za),
+Department of Communications,4/5/2013,29/5/2013,,,,Hangwelani Maseda (director-general@doc.gov.za),Ongoing,Adi Eyal (adi@burgercom.co.za),
+Department of Defense,8/5/2013,,,,,Infodod@.centre@gmail.com,Ongoing,Adi Eyal (adi@burgercom.co.za),They have no clue
+Department of Economic Affairs,4/5/2013,,,,,rdaniels@economic.gov.za,Ongoing,Adi Eyal (adi@burgercom.co.za),Email bounced
+Department of Energy,4/5/2013,29/5/2013,12/6/2013,,Yes,Saandhri (saandhri.naidoo@energy.gov.za),Received,Adi Eyal (adi@burgercom.co.za),
+Department of Environmental Affairs,4/5/2013,8/5/2013,5/6/2013,,Yes,Cecil Ngoben (cngobeni@environment.gov.za),Received,Adi Eyal (adi@burgercom.co.za),
+Department of Health,4/5/2013,,,,,matsop@health.gov.za,Ongoing,Adi Eyal (adi@burgercom.co.za),
+Department of Home Affairs,4/5/2013,15/5/2013,,,,Paia@dha.gov.za,Ongoing,Adi Eyal (adi@burgercom.co.za),
+Department of Public Service and Administration,6/4/2013,8/4/2013,3/5/2013,,Yes,Danie Maree (danie_m@dpsa.gov.za),Received,Adi Eyal (adi@burgercom.co.za),
+Government Communication and Information System,4/5/2013,14/5/2013,3/6/2013,,No,Phillimon Tebogo Kgomo (phillimon@gcis.gov.za),Received,Adi Eyal (adi@burgercom.co.za),
+Ministry for Cooperative Governance and Traditional Affairs,4/5/2013,,,,,realebogaz@cogta.gov.za,Ongoing,Adi Eyal (adi@burgercom.co.za),Email bounced
+South African Police Service,4/5/2013,,,,,ntsalubap@saps.org.za,Ongoing,Adi Eyal (adi@burgercom.co.za),
+State Information Technology Agency,8/5/2013,14/5/2013,,,,Thandi Zide (tandi.zide@site.co.za),Ongoing,Adi Eyal (adi@burgercom.co.za),Thandi no longer works at Sita   request now sent to Shirley Kgope (shirley.kgope@sita.co.za)
+Treasury,4/5/2013,6/5/2013,,,,Phumza Macanda (phumza.macanda@treasury.gov.za),Ongoing,Adi Eyal (adi@burgercom.co.za),
